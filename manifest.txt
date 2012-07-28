@@ -1,0 +1,9 @@
+MANIFEST-VERSION: 1.0
+module-name: TrayNotification
+module-version: 1.0
+module-description: Displays a notification box for alerts
+module-type: Plugin
+module-class: notification.TrayNotification
+module-developer: Jonathan Lewis
+module-icon: logo.png
+
